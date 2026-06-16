@@ -308,7 +308,7 @@ vault2    vault2:8201    follower    true
 vault3    vault3:8201    follower    true
 ```
 
-![vault operator raft list-peers — initial state](./Foto/1.png)
+![vault operator raft list-peers — initial state](./Foto/1.jpeg)
 
 ## 8. Test Failover (Leader Election)
 
