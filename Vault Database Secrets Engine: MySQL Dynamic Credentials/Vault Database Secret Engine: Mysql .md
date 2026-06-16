@@ -112,7 +112,7 @@ Cek daftar user yang aktif di MySQL:
 SELECT User FROM mysql.user;
 ```
 
-![Output Users](./Foto/3.jpeg)
+![Output Users](./Foto/2.jpeg)
 
 ## Flowchart
 
